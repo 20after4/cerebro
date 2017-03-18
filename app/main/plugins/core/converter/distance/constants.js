@@ -21,6 +21,7 @@ export const SYNONIMS = {
 
   "'": 'ft',
   'фут*': 'ft',
+  'feet': 'ft',
 
   'yard*': 'yard',
   'ярд*': 'yard',
@@ -34,4 +35,5 @@ export const UNITS = {
   'yard': 1.09,
   'km': 0.001,
   'mile': 0.00062,
+  'mm': 1000,
 }
